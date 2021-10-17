@@ -1,2 +1,3 @@
-var message = 'Hello! TypeScript!';
-console.log(message);
+"use strict";
+const msg = 'Hello! TypeScript!';
+console.log(msg);
